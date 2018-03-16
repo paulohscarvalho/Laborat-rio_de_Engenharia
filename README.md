@@ -1,1 +1,1 @@
-# Laborat-rio_de_Engenharia
+Exercícios do site da disciplina de Laboratório de Engenharia de Software.
